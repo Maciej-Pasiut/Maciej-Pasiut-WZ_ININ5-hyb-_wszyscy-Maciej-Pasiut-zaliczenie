@@ -2,7 +2,7 @@
 
 Repozytorium projektu zaliczeniowego.
 
-[Zobacz stronę na GitHub Pages](TODO)
+[Zobacz stronę na GitHub Pages](https://maciej-pasiut.github.io/Maciej-Pasiut-WZ_ININ5-hyb-_wszyscy-Maciej-Pasiut-zaliczenie/)
 
 ![Zrzut ekranu strony głównej](./img/home-page.png)
 
